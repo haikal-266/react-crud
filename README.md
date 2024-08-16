@@ -14,7 +14,4 @@ A robust REST API for managing product images, built with Node.js, Express, and 
 - 📖 Retrieve product information
 - 🔄 Update product details
 - 🗑️ Delete products
-
-## 🛠️ Installation
-
-1. Clone the repository:
+  
