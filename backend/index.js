@@ -8,6 +8,7 @@ const App = express();
 App.use(cors());
 App.use(express.json());
 App.use(fileUpload());
+App.use(express.static('public'));
 App.use(Router);
 
 App.listen(2006, () => {
